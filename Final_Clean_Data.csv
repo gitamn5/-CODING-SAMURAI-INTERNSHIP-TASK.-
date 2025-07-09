@@ -1,0 +1,196 @@
+Product ID,Product name,Product Category,Product Position,brand,Promotion,Promotion binary,Seasonal,Sales Volume,sku,price,Price Flag,currency,scraped_at,Scraped_ Month,Scraped_year,terms,section,Section Code
+185102,Basic Puffer Jacket,Clothing,Aisle,Zara,No,0,No,2823,272145190-250-2,19.99,Low,USD,2024-02-19T08:50:05.6546180,2,2024,Jackets,Man,1
+188771,Tuxedo Jacket,Clothing,Aisle,Zara,No,0,No,654,324052738-800-46,169,Average,USD,2024-02-19T08:50:06.5909300,2,2024,Jackets,Man,1
+180176,Slim Fit Suit Jacket,Clothing,End-Cap,Zara,Yes,1,Yes,2220,335342680-800-44,129,Average,USD,2024-02-19T08:50:07.3014190,2,2024,Jackets,Man,1
+112917,Stretch Suit Jacket,Clothing,Aisle,Zara,Yes,1,Yes,1568,328303236-420-44,129,Average,USD,2024-02-19T08:50:07.8829220,2,2024,Jackets,Man,1
+192936,Double Faced Jacket,Clothing,End-Cap,Zara,No,0,Yes,2942,312368260-800-2,139,Average,USD,2024-02-19T08:50:08.4538470,2,2024,Jackets,Man,1
+117590,Contrasting Collar Jacket,Clothing,End-Cap,Zara,No,0,No,2968,320298385-807-2,79.9,Average,USD,2024-02-19T08:50:09.1404970,2,2024,Jackets,Man,1
+189118,Faux Leather Puffer Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,952,278112470-800-2,69.99,Average,USD,2024-02-19T08:50:09.6889510,2,2024,Jackets,Man,1
+182157,Suit Jacket In 100% Linen,Clothing,Aisle,Zara,No,0,No,2421,322972485-431-46,159,Average,USD,2024-02-19T08:50:10.2007770,2,2024,Jackets,Man,1
+141861,100% Wool Suit Jacket,Clothing,Aisle,Zara,Yes,1,Yes,1916,313854165-401-46,169,Average,USD,2024-02-19T08:50:10.8807410,2,2024,Jackets,Man,1
+137121,100% Feather Fill Puffer Jacket,Clothing,Aisle,Zara,No,0,Yes,656,312372602-800-2,169,Average,USD,2024-02-19T08:50:11.3800610,2,2024,Jackets,Man,1
+113143,Herringbone Textured Jacket,Clothing,Aisle,Zara,Yes,1,Yes,2663,316207900-710-2,129,Average,USD,2024-02-19T08:50:12.0112960,2,2024,Jackets,Man,1
+140028,Oversized Cropped Jacket Limited Edition,Clothing,Aisle,Zara,Yes,1,Yes,1260,329186122-800-2,159,Average,USD,2024-02-19T08:50:12.5105070,2,2024,Jackets,Man,1
+134693,Leather Biker Jacket,Clothing,Aisle,Zara,Yes,1,No,2124,311297791-800-2,169,Average,USD,2024-02-19T08:50:13.2105010,2,2024,Jackets,Man,1
+151396,Cropped Leather Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,729,323134418-800-3,439,High,USD,2024-02-19T08:50:13.7711150,2,2024,Jackets,Man,1
+132889,Faux Leather Boxy Fit Jacket,Clothing,Aisle,Zara,Yes,1,Yes,2265,311297555-706-2,99.9,Average,USD,2024-02-19T08:50:14.2529070,2,2024,Jackets,Man,1
+152174,Faux Leather Jacket,Clothing,End-Cap,Zara,No,0,No,2226,317012940-800-2,99.9,Average,USD,2024-02-19T08:50:14.8538680,2,2024,Jackets,Man,1
+129906,Faux Suede Bomber Jacket,Clothing,Aisle,Zara,No,0,No,2089,311292672-800-2,69.9,Average,USD,2024-02-19T08:50:15.3868950,2,2024,Jackets,Man,1
+195879,Denim Bomber Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,2339,321496837-400-3,129,Average,USD,2024-02-19T08:50:15.8950510,2,2024,Jackets,Man,1
+155050,Bouclé Textured Jacket,Clothing,Aisle,Zara,No,0,Yes,2321,316205038-615-2,129,Average,USD,2024-02-19T08:50:16.5804790,2,2024,Jackets,Man,1
+141904,Jacquard Denim Jacket,Clothing,End-Cap,Zara,Yes,1,Yes,1712,313845662-400-3,109,Average,USD,2024-02-19T08:50:17.6394270,2,2024,Jackets,Man,1
+124981,Padded Denim Jacket,Clothing,Front Of Store,Zara,No,0,Yes,1832,320264577-800-2,89.9,Average,USD,2024-02-19T08:50:18.2647320,2,2024,Jackets,Man,1
+161909,Leather Jacket,Clothing,Aisle,Zara,Yes,1,No,1290,315529534-705-3,299,High,USD,2024-02-19T08:50:18.8139790,2,2024,Jackets,Man,1
+129152,Lightweight Bomber Jacket,Clothing,End-Cap,Zara,No,0,No,2356,320423517-800-2,49.9,Low,USD,2024-02-19T08:50:19.4054690,2,2024,Jackets,Man,1
+183243,Suit Jacket,Clothing,Front Of Store,Zara,Yes,1,No,1524,328250627-251-46,169,Average,USD,2024-02-19T08:50:19.8992870,2,2024,Jackets,Man,1
+198248,Faux Leather Bomber Jacket,Clothing,Front Of Store,Zara,Yes,1,No,1644,311309526-800-2,69.9,Average,USD,2024-02-19T08:50:20.3873370,2,2024,Jackets,Man,1
+191230,Patch Bomber Jacket,Clothing,End-Cap,Zara,No,0,No,966,311287528-811-2,89.9,Average,USD,2024-02-19T08:50:20.9405170,2,2024,Jackets,Man,1
+187234,Stretch Pocket Overshirt,Clothing,Front Of Store,Zara,Yes,1,Yes,2575,342657802-914-2,59.9,Average,USD,2024-02-19T08:50:21.6812570,2,2024,Jackets,Man,1
+148888,Rib Collar Jacket,Clothing,Front Of Store,Zara,No,0,No,2774,316207898-712-2,109,Average,USD,2024-02-19T08:50:22.1965130,2,2024,Jackets,Man,1
+110805,Faux Leather Oversized Jacket Limited Edition,Clothing,Front Of Store,Zara,Yes,1,No,2477,321496761-800-2,159,Average,USD,2024-02-19T08:50:22.7526990,2,2024,Jackets,Man,1
+179801,Contrasting Patches Bomber Jacket,Clothing,Front Of Store,Zara,No,0,Yes,2608,311307255-800-2,129,Average,USD,2024-02-19T08:50:23.4491760,2,2024,Jackets,Man,1
+123150,Cropped Bomber Jacket Limited Edition,Clothing,End-Cap,Zara,Yes,1,No,2074,330274270-800-2,129,Average,USD,2024-02-19T08:50:24.4922610,2,2024,Jackets,Man,1
+178281,Bomber Jacket,Clothing,End-Cap,Zara,No,0,Yes,1145,315758723-401-2,109,Average,USD,2024-02-19T08:50:27.3688150,2,2024,Jackets,Man,1
+194339,Faux Suede Jacket,Clothing,End-Cap,Zara,No,0,No,1792,311302863-800-2,89.9,Average,USD,2024-02-19T08:50:28.0137660,2,2024,Jackets,Man,1
+114877,Suede Jacket,Clothing,Aisle,Zara,No,0,No,1860,323134415-700-3,349,High,USD,2024-02-19T08:50:29.4976340,2,2024,Jackets,Man,1
+133109,Textured Jacket,Clothing,Front Of Store,Zara,No,0,Yes,2063,321143726-712-2,79.9,Average,USD,2024-02-19T08:50:31.4353710,2,2024,Jackets,Man,1
+127296,Cropped Textured Jacket,Clothing,Aisle,Zara,No,0,No,1165,320220949-507-2,89.9,Average,USD,2024-02-19T08:50:32.0160860,2,2024,Jackets,Man,1
+133757,Pocket Puffer Jacket,Clothing,Aisle,Zara,Yes,1,No,2071,312664937-514-2,129,Average,USD,2024-02-19T08:50:32.5310170,2,2024,Jackets,Man,1
+111760,Technical Jacket With Pockets,Clothing,End-Cap,Zara,No,0,No,1474,321143723-401-2,109,Average,USD,2024-02-19T08:50:33.1385170,2,2024,Jackets,Man,1
+138505,Ripped Denim Jacket,Clothing,Front Of Store,Zara,No,0,No,2478,335663355-406-2,69.9,Average,USD,2024-02-19T08:50:35.0113520,2,2024,Jackets,Man,1
+116228,Textured Pocket Jacket,Clothing,End-Cap,Zara,Yes,1,No,647,312363708-800-2,89.9,Average,USD,2024-02-19T08:50:35.5343550,2,2024,Jackets,Man,1
+167592,Faux Suede Patch Jacket,Clothing,Front Of Store,Zara,Yes,1,No,707,312320664-251-2,89.9,Average,USD,2024-02-19T08:50:36.2785490,2,2024,Jackets,Man,1
+133100,Puffer Jacket With Pouch Pocket,Clothing,End-Cap,Zara,Yes,1,No,2729,311302445-445-97,89.9,Average,USD,2024-02-19T08:50:37.2627770,2,2024,Jackets,Man,1
+189349,Textured Weave Overshirt,Clothing,End-Cap,Zara,Yes,1,No,1245,317107014-707-2,89.9,Average,USD,2024-02-19T08:50:38.6752930,2,2024,Jackets,Man,1
+127478,Straight Suit Jacket,Clothing,Front Of Store,Zara,No,0,Yes,2498,328594167-800-46,129,Average,USD,2024-02-19T08:50:39.1469240,2,2024,Jackets,Man,1
+180661,Hooded Quilted Jacket,Clothing,Front Of Store,Zara,No,0,Yes,1041,311309598-711-2,129,Average,USD,2024-02-19T08:50:39.6886020,2,2024,Jackets,Man,1
+186681,Lightweight Puffer Jacket,Clothing,End-Cap,Zara,No,0,Yes,1717,267133943-711-2,19.99,Low,USD,2024-02-19T08:50:40.2137080,2,2024,Jackets,Man,1
+133183,Cotton Blend Bomber Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,2859,318265017-401-2,89.9,Average,USD,2024-02-19T08:50:40.8986540,2,2024,Jackets,Man,1
+173508,Pocket Jacket,Clothing,Aisle,Zara,Yes,1,No,1658,322410604-401-2,129,Average,USD,2024-02-19T08:50:41.4278910,2,2024,Jackets,Man,1
+187930,Oversized Bomber Jacket,Clothing,End-Cap,Zara,No,0,Yes,706,324149982-982-2,89.9,Average,USD,2024-02-19T08:50:41.9441160,2,2024,Jackets,Man,1
+124088,Embroidered Patch Jacket,Clothing,End-Cap,Zara,Yes,1,Yes,2065,320531693-707-2,79.9,Average,USD,2024-02-19T08:50:42.6295210,2,2024,Jackets,Man,1
+190238,Acid Wash Denim Jacket,Clothing,Front Of Store,Zara,No,0,Yes,1917,328279967-409-3,89.9,Average,USD,2024-02-19T08:50:43.0675670,2,2024,Jackets,Man,1
+151925,Vintage Effect Leather Bomber Jacket,Clothing,End-Cap,Zara,Yes,1,Yes,2179,320774184-800-97,299,High,USD,2024-02-19T08:50:43.5435550,2,2024,Jackets,Man,1
+163234,Textured Denim Jacket Limited Edition,Clothing,Front Of Store,Zara,No,0,No,1633,322972491-800-2,89.9,Average,USD,2024-02-19T08:50:44.1267260,2,2024,Jackets,Man,1
+135610,Wool Blend Jacket,Clothing,Aisle,Zara,Yes,1,Yes,1513,321501682-800-2,109,Average,USD,2024-02-19T08:50:45.0342370,2,2024,Jackets,Man,1
+117065,Cotton - Linen Blend Jacket,Clothing,Aisle,Zara,Yes,1,Yes,758,328616906-712-2,109,Average,USD,2024-02-19T08:50:45.8095240,2,2024,Jackets,Man,1
+149315,Fleece Bomber Jacket,Clothing,End-Cap,Zara,Yes,1,No,718,311292541-802-2,109,Average,USD,2024-02-19T08:50:46.2593610,2,2024,Jackets,Man,1
+149510,Zippered Jacket,Clothing,Aisle,Zara,No,0,Yes,1412,319205114-807-2,59.9,Average,USD,2024-02-19T08:50:47.2541450,2,2024,Jackets,Man,1
+137990,Cotton Jacket,Clothing,Aisle,Zara,No,0,No,2929,276213846-500-2,29.99,Low,USD,2024-02-19T08:50:49.9408140,2,2024,Jackets,Man,1
+154016,Wool Blend Textured Jacket,Clothing,End-Cap,Zara,Yes,1,Yes,2366,328244979-064-48,189,Average,USD,2024-02-19T08:50:48.6922600,2,2024,Jackets,Man,1
+117751,Contrast Jacquard Jacket,Clothing,Aisle,Zara,No,0,No,2749,323050745-798-97,89.9,Average,USD,2024-02-19T08:50:51.2002720,2,2024,Jackets,Man,1
+182362,Cropped Overshirt,Clothing,Front Of Store,Zara,No,0,No,2019,319166635-401-2,69.9,Average,USD,2024-02-19T08:50:51.7118590,2,2024,Jackets,Man,1
+117725,Contrasting Patches Hooded Jacket,Clothing,Aisle,Zara,No,0,Yes,1506,311297489-800-2,109,Average,USD,2024-02-19T08:50:52.2064040,2,2024,Jackets,Man,1
+145289,Utility Pocket Jacket,Clothing,End-Cap,Zara,No,0,No,1012,311292073-709-2,109,Average,USD,2024-02-19T08:50:52.7321120,2,2024,Jackets,Man,1
+173576,Unknown Product,Clothing,End-Cap,Zara,Yes,1,No,1838,336378923-700-2,129,Average,USD,2024-02-19T08:50:54.4760570,2,2024,Jackets,Man,1
+162883,Technical Padded Jacket,Clothing,Front Of Store,Zara,Yes,1,No,786,311307584-518-2,139,Average,USD,2024-02-19T08:50:55.8980640,2,2024,Jackets,Man,1
+135490,Mixed Collar Waxed Jacket,Clothing,Front Of Store,Zara,No,0,No,1094,321151893-609-2,139,Average,USD,2024-02-19T08:50:56.3497840,2,2024,Jackets,Man,1
+134763,Padded Bomber Jacket,Clothing,Front Of Store,Zara,No,0,Yes,2048,315947178-800-2,89.9,Average,USD,2024-02-19T08:50:57.5863000,2,2024,Jackets,Man,1
+125409,Pocket Denim Jacket,Clothing,End-Cap,Zara,Yes,1,No,2040,330290360-427-3,89.9,Average,USD,2024-02-19T08:50:58.5779310,2,2024,Jackets,Man,1
+183074,Boxy Fit Denim Jacket,Clothing,Aisle,Zara,No,0,No,2791,320449897-427-2,89.9,Average,USD,2024-02-19T08:50:59.0055640,2,2024,Jackets,Man,1
+147947,Faux Shearling Plaid Jacket,Clothing,Aisle,Zara,Yes,1,Yes,1249,311297724-700-97,89.9,Average,USD,2024-02-19T08:50:59.5129670,2,2024,Jackets,Man,1
+174171,Embroidered Forest Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,2273,328332050-700-97,89.9,Average,USD,2024-02-19T08:50:59.9191690,2,2024,Jackets,Man,1
+183064,Pocket Overshirt,Clothing,Front Of Store,Zara,Yes,1,No,1773,311282469-505-2,89.9,Average,USD,2024-02-19T08:51:00.4459550,2,2024,Jackets,Man,1
+177131,Boucle Textured Vest,Clothing,Aisle,Zara,Yes,1,Yes,1733,319502128-515-2,69.9,Average,USD,2024-02-19T08:51:00.9097780,2,2024,Jackets,Man,1
+128179,Color Block Puffer Jacket,Clothing,End-Cap,Zara,Yes,1,No,2060,311287226-472-2,89.9,Average,USD,2024-02-19T08:51:03.3765370,2,2024,Jackets,Man,1
+152723,Longline Quilted Jacket,Clothing,Aisle,Zara,No,0,Yes,2849,316683359-818-2,169,Average,USD,2024-02-19T08:51:03.9768370,2,2024,Jackets,Man,1
+123824,Wool Blend Suit Jacket,Clothing,Aisle,Zara,Yes,1,No,2277,322901350-800-46,169,Average,USD,2024-02-19T08:51:04.3814930,2,2024,Jackets,Man,1
+166345,Hooded Knit Cardigan,Clothing,Aisle,Zara,No,0,Yes,1135,322929313-802-97,69.9,Average,USD,2024-02-19T08:51:04.8327080,2,2024,Jackets,Man,1
+199279,Hooded Technical Jacket,Clothing,Aisle,Zara,No,0,No,1770,267186163-643-2,19.99,Low,USD,2024-02-19T08:51:05.3011460,2,2024,Jackets,Man,1
+167981,Houndstooth Suit Jacket,Clothing,End-Cap,Zara,No,0,No,730,329706743-401-46,139,Average,USD,2024-02-19T08:51:05.7299750,2,2024,Jackets,Man,1
+165158,Washed Effect Bomber Jacket,Clothing,Front Of Store,Zara,No,0,No,1622,323675323-700-2,109,Average,USD,2024-02-19T08:51:07.5741820,2,2024,Jackets,Man,1
+111521,Washed Technical Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,2553,323672371-507-2,99.9,Average,USD,2024-02-19T08:51:08.0347170,2,2024,Jackets,Man,1
+198329,Mixed Collar Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,628,323212374-510-2,109,Average,USD,2024-02-19T08:51:16.9951210,2,2024,Jackets,Man,1
+110295,Hooded Denim Jacket,Clothing,End-Cap,Zara,Yes,1,No,1448,322547863-811-2,129,Average,USD,2024-02-19T08:51:17.4023210,2,2024,Jackets,Man,1
+196427,Waxed Effect Plaid Jacket,Clothing,Aisle,Zara,Yes,1,No,1401,320600266-745-2,169,Average,USD,2024-02-19T08:51:17.9034380,2,2024,Jackets,Man,1
+110075,Wool Blend Felt Texture Jacket,Clothing,Front Of Store,Zara,Yes,1,Yes,2185,320771732-800-2,159,Average,USD,2024-02-19T08:51:18.3835160,2,2024,Jackets,Man,1
+132322,Printed Denim Overshirt,Clothing,Front Of Store,Zara,Yes,1,No,2135,289179723-020-2,12.99,Low,USD,2024-02-19T08:51:30.6017480,2,2024,Jackets,Man,1
+199631,Structured Twill Overshirt,Clothing,Front Of Store,Zara,Yes,1,No,1269,327747299-800-2,89.9,Average,USD,2024-02-19T08:51:31.5865760,2,2024,Jackets,Man,1
+182306,Cotton Overshirt,Clothing,Front Of Store,Zara,No,0,No,2805,317782501-701-2,89.9,Average,USD,2024-02-19T08:51:32.1521120,2,2024,Jackets,Man,1
+194915,Reversible Plaid Overshirt,Clothing,Aisle,Zara,Yes,1,No,1796,311282298-099-2,79.9,Average,USD,2024-02-19T08:51:32.5701790,2,2024,Jackets,Man,1
+131298,Plaid Overshirt,Clothing,End-Cap,Zara,Yes,1,No,2133,322612356-505-2,69.9,Average,USD,2024-02-19T08:51:33.1753570,2,2024,Jackets,Man,1
+154224,100% Linen Overshirt,Clothing,End-Cap,Zara,Yes,1,No,2474,329282612-401-2,89.9,Average,USD,2024-02-19T08:51:34.0398760,2,2024,Jackets,Man,1
+119049,Pocket Denim Overshirt,Clothing,Aisle,Zara,No,0,Yes,1659,323216360-406-2,89.9,Average,USD,2024-02-19T08:51:35.3997860,2,2024,Jackets,Man,1
+158781,Faux Suede Overshirt,Clothing,End-Cap,Zara,Yes,1,Yes,2443,318209963-800-2,69.9,Average,USD,2024-02-19T08:51:35.8810860,2,2024,Jackets,Man,1
+152871,Textured Pocket Overshirt,Clothing,End-Cap,Zara,No,0,Yes,1847,312571093-710-2,69.9,Average,USD,2024-02-19T08:51:36.7863690,2,2024,Jackets,Man,1
+134104,Overshirt,Clothing,End-Cap,Zara,No,0,Yes,1466,313027279-800-2,59.9,Average,USD,2024-02-19T08:51:37.7412800,2,2024,Jackets,Man,1
+175927,Zippered Wool Blend Overshirt,Clothing,End-Cap,Zara,No,0,Yes,1506,312978838-611-2,109,Average,USD,2024-02-19T08:51:39.1791200,2,2024,Jackets,Man,1
+154278,Geometric Jacquard Overshirt,Clothing,End-Cap,Zara,No,0,Yes,2749,336446858-822-2,89.9,Average,USD,2024-02-19T08:51:39.6442830,2,2024,Jackets,Man,1
+183537,Paint Print Overshirt,Clothing,Front Of Store,Zara,Yes,1,Yes,2434,281883711-071-2,19.99,Low,USD,2024-02-19T08:51:40.1205460,2,2024,Jackets,Man,1
+150424,Padded Corduroy Overshirt,Clothing,Front Of Store,Zara,No,0,Yes,2067,313008692-514-2,79.9,Average,USD,2024-02-19T08:51:40.6361810,2,2024,Jackets,Man,1
+183825,Plaid Tie Dye Overshirt,Clothing,Aisle,Zara,Yes,1,Yes,2989,281593208-015-2,19.99,Low,USD,2024-02-19T08:51:41.1277590,2,2024,Jackets,Man,1
+144012,Overshirt With Contrasting Topstitching,Clothing,Front Of Store,Zara,Yes,1,No,743,314937772-710-2,59.9,Average,USD,2024-02-19T08:51:41.6835350,2,2024,Jackets,Man,1
+147051,Quilted Structured Overshirt,Clothing,Front Of Store,Zara,No,0,No,2325,320278659-251-2,109,Average,USD,2024-02-19T08:51:42.1589030,2,2024,Jackets,Man,1
+185800,Technical Overshirt,Clothing,End-Cap,Zara,No,0,Yes,1841,321993245-500-2,109,Average,USD,2024-02-19T08:51:42.6443990,2,2024,Jackets,Man,1
+148823,Suede Fisherman Sandals,Clothing,Aisle,Zara,No,0,Yes,2211,320680326-107-39,89.9,Average,USD,2024-02-19T09:00:28.4262250,2,2024,Shoes,Man,1
+114550,Zipper Multipiece Sneakers,Clothing,End-Cap,Zara,No,0,No,2114,311292244-800-39,69.9,Average,USD,2024-02-19T09:00:29.0457810,2,2024,Shoes,Man,1
+125398,Suede Laceless Sneakers,Clothing,Aisle,Zara,Yes,1,Yes,1350,311307610-400-39,69.9,Average,USD,2024-02-19T09:00:30.0657520,2,2024,Shoes,Man,1
+123985,Multicolor Sneakers,Clothing,End-Cap,Zara,No,0,No,2240,311302877-203-39,69.9,Average,USD,2024-02-19T09:00:30.8858610,2,2024,Shoes,Man,1
+186638,Retro Running Sneakers,Clothing,End-Cap,Zara,Yes,1,No,1296,311302598-500-39,59.9,Average,USD,2024-02-19T09:00:31.4179020,2,2024,Shoes,Man,1
+167281,Suede High-Tops,Clothing,End-Cap,Zara,Yes,1,Yes,892,311297328-800-39,59.9,Average,USD,2024-02-19T09:00:32.0288260,2,2024,Shoes,Man,1
+118578,Suede Strap Sandals,Clothing,End-Cap,Zara,No,0,Yes,1678,311302865-804-39,49.9,Low,USD,2024-02-19T09:00:32.6653590,2,2024,Shoes,Man,1
+174041,Multipiece Sneakers,Clothing,End-Cap,Zara,No,0,No,2016,311307489-203-39,49.9,Low,USD,2024-02-19T09:00:33.3818120,2,2024,Shoes,Man,1
+127644,Topstitch Sneakers,Clothing,Front Of Store,Zara,No,0,Yes,1498,311287075-120-39,45.9,Low,USD,2024-02-19T09:00:34.0174230,2,2024,Shoes,Man,1
+132007,Retro Sneakers,Clothing,Aisle,Zara,No,0,Yes,2491,276378605-515-39,9.99,Low,USD,2024-02-19T09:00:34.9900480,2,2024,Shoes,Man,1
+147998,Retro High Top Sneakers,Clothing,Aisle,Zara,No,0,No,2556,277776476-700-39,9.99,Low,USD,2024-02-19T09:00:36.2493390,2,2024,Shoes,Man,1
+176666,Multi-Pieced Retro Sneakers,Clothing,Aisle,Zara,Yes,1,No,2852,313381662-202-39,45.9,Low,USD,2024-02-19T09:00:37.0772900,2,2024,Shoes,Man,1
+193686,Tassel Leather Loafers,Clothing,Aisle,Zara,Yes,1,No,1899,311292343-700-39,99.9,Average,USD,2024-02-19T09:00:37.6303070,2,2024,Shoes,Man,1
+163610,Moc-Toe Suede Boots,Clothing,Front Of Store,Zara,Yes,1,No,2466,311309627-805-39,89.9,Average,USD,2024-02-19T09:00:38.6313300,2,2024,Shoes,Man,1
+170364,Strap Sandals,Clothing,Aisle,Zara,No,0,No,818,315851805-800-39,45.9,Low,USD,2024-02-19T09:00:39.3916930,2,2024,Shoes,Man,1
+167599,Suede Retro Sneakers,Clothing,Aisle,Zara,No,0,No,1500,311292644-400-39,59.9,Average,USD,2024-02-19T09:00:40.4493200,2,2024,Shoes,Man,1
+166421,Hiking Boots,Clothing,End-Cap,Zara,Yes,1,No,2878,311302552-800-39,79.9,Average,USD,2024-02-19T09:00:41.7050060,2,2024,Shoes,Man,1
+129247,Suede Sneakers,Clothing,Front Of Store,Zara,Yes,1,No,2386,311302532-102-39,69.9,Average,USD,2024-02-19T09:00:42.3761480,2,2024,Shoes,Man,1
+127314,Faux Shearling Lined Suede Boots,Clothing,End-Cap,Zara,Yes,1,Yes,2076,311287147-723-39,99.9,Average,USD,2024-02-19T09:00:43.1468190,2,2024,Shoes,Man,1
+111979,Chunky Sneakers,Clothing,Front Of Store,Zara,No,0,No,2734,311307332-202-39,59.9,Average,USD,2024-02-19T09:00:43.5809100,2,2024,Shoes,Man,1
+120354,Double Strap Suede Sandals,Clothing,Aisle,Zara,Yes,1,No,2836,311282293-131-39,59.9,Average,USD,2024-02-19T09:00:44.4948190,2,2024,Shoes,Man,1
+144848,Chunky Sole Canvas Lace-Up Boots,Clothing,Front Of Store,Zara,No,0,No,2193,311287149-800-39,89.9,Average,USD,2024-02-19T09:00:45.9351350,2,2024,Shoes,Man,1
+111957,Suede Penny Loafers,Clothing,Aisle,Zara,Yes,1,No,2164,311307624-500-39,89.9,Average,USD,2024-02-19T09:00:46.6292700,2,2024,Shoes,Man,1
+160763,Adherent Stripes Sneakers,Clothing,Front Of Store,Zara,Yes,1,Yes,991,311282212-800-39,45.9,Low,USD,2024-02-19T09:00:47.1613310,2,2024,Shoes,Man,1
+195082,Chunky Sole High Top Sneakers,Clothing,Front Of Store,Zara,No,0,No,923,311302515-800-39,69.9,Average,USD,2024-02-19T09:00:48.2347720,2,2024,Shoes,Man,1
+110329,Contrast Sole Leather Sneakers,Clothing,Front Of Store,Zara,No,0,Yes,2397,314937773-800-39,69.9,Average,USD,2024-02-19T09:00:48.8585920,2,2024,Shoes,Man,1
+147449,Suede Running Sneakers,Clothing,End-Cap,Zara,No,0,No,1191,316608794-802-39,69.9,Average,USD,2024-02-19T09:00:49.3987910,2,2024,Shoes,Man,1
+193332,Woven Leather Slides,Clothing,Aisle,Zara,Yes,1,No,1237,319205037-800-39,49.9,Low,USD,2024-02-19T09:00:49.8845460,2,2024,Shoes,Man,1
+188909,Asymmetric Cropped Knit Sweater,Clothing,Aisle,Zara,Yes,1,Yes,2863,336449731-712-1,39.9,Low,USD,2024-02-19T09:10:31.8779710,2,2024,Sweaters,Woman,2
+165910,Knit Sweater With Pearls,Clothing,End-Cap,Zara,Yes,1,No,2760,313890651-712-2,69.9,Average,USD,2024-02-19T09:10:32.5342460,2,2024,Sweaters,Woman,2
+136738,High Collar Knit Sweater,Clothing,Front Of Store,Zara,No,0,Yes,542,287414911-803-2,7.99,Low,USD,2024-02-19T09:10:33.1288840,2,2024,Sweaters,Woman,2
+144497,Striped Knit Sweater,Clothing,End-Cap,Zara,Yes,1,Yes,1105,342171615-104-2,49.9,Low,USD,2024-02-19T09:10:33.8909950,2,2024,Sweaters,Woman,2
+135036,Cable Knit Metallic Sweater,Clothing,End-Cap,Zara,Yes,1,No,1435,314152967-485-2,49.9,Low,USD,2024-02-19T09:10:34.5214630,2,2024,Sweaters,Woman,2
+166331,Asymmetrical Wool And Silk Blend Sweater,Clothing,Aisle,Zara,Yes,1,Yes,2877,324186867-642-2,59.9,Average,USD,2024-02-19T09:10:35.0683380,2,2024,Sweaters,Woman,2
+139789,Wool And Cashmere Blend Rib Sweater,Clothing,Aisle,Zara,No,0,Yes,1094,316900618-809-2,69.9,Average,USD,2024-02-19T09:10:35.6414040,2,2024,Sweaters,Woman,2
+118569,Alpaca And Wool Blend Tie Dye Knit Sweater,Clothing,Aisle,Zara,No,0,Yes,994,313890645-330-2,49.9,Low,USD,2024-02-19T09:10:36.1520510,2,2024,Sweaters,Woman,2
+155848,Mock Neck Wool And Silk Blend Knit Top,Clothing,End-Cap,Zara,Yes,1,No,1942,324597432-800-2,49.9,Low,USD,2024-02-19T09:10:36.8391660,2,2024,Sweaters,Woman,2
+152563,Cashmere Blend Knit Sweater,Clothing,Front Of Store,Zara,No,0,Yes,2572,313890686-731-2,169,Average,USD,2024-02-19T09:10:37.4848710,2,2024,Sweaters,Woman,2
+115153,Alpaca Blend Open Knit Sweater,Clothing,Aisle,Zara,No,0,No,1736,313890650-712-2,79.9,Average,USD,2024-02-19T09:10:38.3626320,2,2024,Sweaters,Woman,2
+125938,Oversized Knit Sweater,Clothing,Aisle,Zara,Yes,1,Yes,1204,313890680-450-2,49.9,Low,USD,2024-02-19T09:10:38.8840240,2,2024,Sweaters,Woman,2
+122809,Wool Blend Knit Sweater,Clothing,End-Cap,Zara,No,0,Yes,1592,344575855-982-2,49.9,Low,USD,2024-02-19T09:10:39.4157610,2,2024,Sweaters,Woman,2
+181502,Soft Jewel Sweater,Clothing,Front Of Store,Zara,Yes,1,No,2591,323175653-803-2,39.9,Low,USD,2024-02-19T09:10:39.9111790,2,2024,Sweaters,Woman,2
+182779,Faux Fur Jewel Sweater,Clothing,End-Cap,Zara,Yes,1,Yes,2097,324814227-400-2,35.9,Low,USD,2024-02-19T09:10:40.6814010,2,2024,Sweaters,Woman,2
+155674,Metal Bead Knit Sweater,Clothing,Front Of Store,Zara,No,0,No,897,323218942-800-2,49.9,Low,USD,2024-02-19T09:10:41.5194260,2,2024,Sweaters,Woman,2
+182866,Knit Sweater With Buttons,Clothing,Aisle,Zara,No,0,Yes,1552,313890656-800-2,39.9,Low,USD,2024-02-19T09:10:42.0162230,2,2024,Sweaters,Woman,2
+148230,Jewel Knit Sweater,Clothing,Front Of Store,Zara,Yes,1,No,2494,321480271-802-2,59.9,Average,USD,2024-02-19T09:10:42.5932440,2,2024,Sweaters,Woman,2
+126979,Knit Sweater With Piping,Clothing,Front Of Store,Zara,No,0,No,2141,311297787-806-1,49.9,Low,USD,2024-02-19T09:10:43.3796680,2,2024,Sweaters,Woman,2
+135521,Fine Knit Crop Sweater,Clothing,End-Cap,Zara,No,0,Yes,2835,322677494-446-1,39.9,Low,USD,2024-02-19T09:10:43.8830370,2,2024,Sweaters,Woman,2
+185809,Knit Sweater With Rips,Clothing,End-Cap,Zara,No,0,No,622,313890688-330-1,49.9,Low,USD,2024-02-19T09:10:44.4638830,2,2024,Sweaters,Woman,2
+171520,Gathered Waist Knit Sweater,Clothing,End-Cap,Zara,Yes,1,Yes,2901,322451460-800-1,47.9,Low,USD,2024-02-19T09:10:45.0091060,2,2024,Sweaters,Woman,2
+122926,Knit V-Neck Sweater,Clothing,End-Cap,Zara,No,0,No,867,319465261-800-2,45.9,Low,USD,2024-02-19T09:10:45.6318040,2,2024,Sweaters,Woman,2
+150953,Basic Foil Knit Sweater,Clothing,Front Of Store,Zara,Yes,1,Yes,2434,317331009-312-2,35.9,Low,USD,2024-02-19T09:10:46.1212690,2,2024,Sweaters,Woman,2
+115873,Contrast Topstitching Crop Knit Sweater,Clothing,End-Cap,Zara,Yes,1,Yes,2606,311297400-803-1,59.9,Average,USD,2024-02-19T09:10:46.6229120,2,2024,Sweaters,Woman,2
+115581,Striped Crop Knit Sweater,Clothing,Aisle,Zara,No,0,Yes,2728,336449779-104-1,47.9,Low,USD,2024-02-19T09:10:47.3417850,2,2024,Sweaters,Woman,2
+183634,Basic Knit Sweater,Clothing,Front Of Store,Zara,Yes,1,Yes,2778,324593343-043-2,27.9,Low,USD,2024-02-19T09:10:48.0870910,2,2024,Sweaters,Woman,2
+122484,V-Neck Knit Sweater,Clothing,Aisle,Zara,Yes,1,Yes,558,319473750-809-1,47.9,Low,USD,2024-02-19T09:10:48.7193830,2,2024,Sweaters,Woman,2
+183574,Foil Knit Crop Sweater,Clothing,Aisle,Zara,Yes,1,Yes,1752,331789902-808-1,47.9,Low,USD,2024-02-19T09:10:49.2852660,2,2024,Sweaters,Woman,2
+185307,Basic 100% Wool Sweater,Clothing,Front Of Store,Zara,No,0,Yes,2743,300250126-401-2,7.99,Low,USD,2024-02-19T09:10:49.9135690,2,2024,Sweaters,Woman,2
+118719,Colorblock Knit Crop Sweater,Clothing,End-Cap,Zara,No,0,Yes,1669,320052978-401-2,45.9,Low,USD,2024-02-19T09:10:50.6121500,2,2024,Sweaters,Woman,2
+134788,Fine Knit Sweater,Clothing,Front Of Store,Zara,No,0,No,2179,324722597-400-2,45.9,Low,USD,2024-02-19T09:10:51.1890280,2,2024,Sweaters,Woman,2
+140142,Knit Open Back Pearly Sweater,Clothing,Front Of Store,Zara,Yes,1,No,606,328207551-500-2,49.9,Low,USD,2024-02-19T09:10:51.7858570,2,2024,Sweaters,Woman,2
+153997,Knit Pearl Sweater,Clothing,End-Cap,Zara,No,0,Yes,1608,318131967-800-2,45.9,Low,USD,2024-02-19T09:10:52.4857720,2,2024,Sweaters,Woman,2
+123230,Striped Textured Overshirt,Clothing,Aisle,Zara,No,0,Yes,880,324027512-064-2,69.9,Average,USD,2024-02-19T08:51:28.6670990,2,2024,Jackets,Man,1
+154676,Fleece Overshirt,Clothing,Aisle,Zara,No,0,No,943,311292623-712-97,69.9,Average,USD,2024-02-19T08:51:29.0904020,2,2024,Jackets,Man,1
+175584,Baggy Fit Jeans Limited Edition,Clothing,Front Of Store,Zara,No,0,No,2084,324908098-800-38,69.9,Average,USD,2024-02-19T08:54:37.7182000,2,2024,Jeans,Man,1
+147491,Baggy Belted Jeans,Clothing,End-Cap,Zara,No,0,No,1563,326540983-802-36,59.9,Average,USD,2024-02-19T08:54:38.2773680,2,2024,Jeans,Man,1
+198283,Baggy Fit Jeans,Clothing,End-Cap,Zara,Yes,1,Yes,1558,315836999-406-34,69.9,Average,USD,2024-02-19T08:54:39.0179640,2,2024,Jeans,Man,1
+156342,Flared Fit Cargo Jeans,Clothing,Front Of Store,Zara,Yes,1,Yes,1466,311287318-400-38,109,Average,USD,2024-02-19T08:54:39.9506920,2,2024,Jeans,Man,1
+186083,Pleated Wide Fit Jeans,Clothing,End-Cap,Zara,No,0,Yes,624,312393140-406-2,49.9,Low,USD,2024-02-19T08:54:40.5489420,2,2024,Jeans,Man,1
+171776,Denim Shirt,Clothing,Aisle,Zara,Yes,1,No,1685,275600408-400-2,12.99,Low,USD,2024-02-19T08:54:41.1132220,2,2024,Jeans,Man,1
+134429,Ripped Straight Fit Jeans,Clothing,Aisle,Zara,No,0,No,2914,311303003-407-38,69.9,Average,USD,2024-02-19T08:54:41.6513790,2,2024,Jeans,Man,1
+172816,Textured Sweater,Clothing,Aisle,Zara,No,0,Yes,1524,311307250-710-3,69.9,Average,USD,2024-02-19T08:54:44.2919270,2,2024,Sweaters,Man,1
+136272,Purl Knit Sweater,Clothing,End-Cap,Zara,No,0,Yes,2887,267195405-500-3,12.99,Low,USD,2024-02-19T08:54:45.3209580,2,2024,Sweaters,Man,1
+193227,Braided Color Block Sweater,Clothing,End-Cap,Zara,Yes,1,Yes,1778,317894313-707-3,69.9,Average,USD,2024-02-19T08:54:45.9277060,2,2024,Sweaters,Man,1
+165786,Contrast Interior Sweater,Clothing,End-Cap,Zara,No,0,Yes,1278,315075917-803-2,59.9,Average,USD,2024-02-19T08:54:46.5427100,2,2024,Sweaters,Man,1
+174708,Abstract Jacquard Sweater,Clothing,Front Of Store,Zara,No,0,Yes,529,317889153-700-3,59.9,Average,USD,2024-02-19T08:54:47.0650780,2,2024,Sweaters,Man,1
+142257,Basic Slim Fit T-Shirt,Clothing,Aisle,Zara,Yes,1,Yes,1180,315241755-800-2,19.9,Low,USD,2024-02-19T08:56:26.1274590,2,2024,T-Shirts,Man,1
+126146,Cropped Washed T-Shirt,Clothing,Aisle,Zara,No,0,No,2759,320326523-707-2,39.9,Low,USD,2024-02-19T08:56:26.6535170,2,2024,T-Shirts,Man,1
+129134,Basic Heavyweight T-Shirt,Clothing,Aisle,Zara,No,0,Yes,1831,316715458-250-2,29.9,Low,USD,2024-02-19T08:56:27.4595080,2,2024,T-Shirts,Man,1
+129898,Heart Print T-Shirt,Clothing,End-Cap,Zara,No,0,No,1866,322677489-800-2,39.9,Low,USD,2024-02-19T08:56:27.9541740,2,2024,T-Shirts,Man,1
+189692,Text T-Shirt,Clothing,End-Cap,Zara,Yes,1,No,1553,330077856-251-2,39.9,Low,USD,2024-02-19T08:56:28.4476160,2,2024,T-Shirts,Man,1
+154846,Printed Cropped Fit Shirt Limited Edition,Clothing,End-Cap,Zara,Yes,1,No,917,328232452-898-2,39.9,Low,USD,2024-02-19T08:56:28.9799600,2,2024,T-Shirts,Man,1
+122307,Ribbed Knit T-Shirt,Clothing,End-Cap,Zara,No,0,No,702,317230892-251-3,49.9,Low,USD,2024-02-19T08:56:29.5032700,2,2024,T-Shirts,Man,1
+182099,Oversize Fit T-Shirt,Clothing,Aisle,Zara,Yes,1,No,1978,330478123-712-2,39.9,Low,USD,2024-02-19T08:56:30.0522500,2,2024,T-Shirts,Man,1
+159816,Basic Medium Weight T-Shirt,Clothing,Front Of Store,Zara,No,0,Yes,1961,318255748-250-2,27.9,Low,USD,2024-02-19T08:56:30.5949500,2,2024,T-Shirts,Man,1
+165326,Structured Text T-Shirt,Clothing,Aisle,Zara,No,0,No,1188,319334069-712-2,45.9,Low,USD,2024-02-19T08:56:31.1286800,2,2024,T-Shirts,Man,1
+185154,Abstract Print T-Shirt,Clothing,Aisle,Zara,Yes,1,No,996,311307261-712-2,39.9,Low,USD,2024-02-19T08:56:31.7235850,2,2024,T-Shirts,Man,1
+141330,Raised Text T-Shirt Limited Edition,Clothing,Aisle,Zara,No,0,Yes,1915,323216369-922-2,39.9,Low,USD,2024-02-19T08:56:32.5704920,2,2024,T-Shirts,Man,1
+155010,Semi-Sheer Knit Shirt Limited Edition,Clothing,Aisle,Zara,Yes,1,Yes,729,328232445-800-2,45.9,Low,USD,2024-02-19T08:56:33.7158920,2,2024,T-Shirts,Man,1
+135857,Viscose Blend Knit T-Shirt,Clothing,Aisle,Zara,No,0,Yes,2045,311297550-251-2,45.9,Low,USD,2024-02-19T08:56:34.2692030,2,2024,T-Shirts,Man,1
+147690,Striped Jacquard T-Shirt,Clothing,Aisle,Zara,Yes,1,No,881,322909502-819-2,39.9,Low,USD,2024-02-19T08:56:34.7666360,2,2024,T-Shirts,Man,1
+130321,Abstract Print Knit T-Shirt,Clothing,End-Cap,Zara,Yes,1,No,2093,320071210-802-2,39.9,Low,USD,2024-02-19T08:56:35.2550560,2,2024,T-Shirts,Man,1
